@@ -19,7 +19,7 @@ Ao abrir o aplicativo, você será direcionado para a tela de login. Insira suas
 
 Na tela de login, insira seu nome de usuário e senha nos campos apropriados. Em seguida, clique no botão "Entrar" para acessar o aplicativo.
 
-![Descrição da imagem](printsAppReadme/TelaLogin.png)
+![Login](printsAppReadme/TelaLogin.png)
 
 # TELA PRINCIPAL
 
@@ -28,9 +28,13 @@ Na tela principal, você verá uma lista de caronas disponíveis, com informaç�
 Para visualizar os detalhes de uma carona, clique no item da lista correspondente.
 Para fazer uma reserva em uma carona, clique no botão "Reservar" na tela de detalhes da carona.
 
+![Reserva](printsAppReadme/TelaReserva.png)
+
 # TELA DE CONFIRMAÇÃO
 
 Após clicar no botão "Reservar", você será direcionado para a tela de confirmação. Nessa tela, você verá os detalhes da reserva, incluindo o nome do passageiro e o destino selecionado. Para confirmar a reserva, clique no botão "Confirmar".
+
+![Confirmação](printsAppReadme/TelaConfirmacao.png)
 
 # BANCO DE DADOS 
 
@@ -54,6 +58,10 @@ Password: sua_senha_aqui (a mesma senha que você definiu no passo anterior)
 Clique em "Test Connection" para verificar se a conexão com o banco de dados está funcionando corretamente.
 Clique em "Save" para salvar a conexão.
 Agora, o banco de dados está configurado e pronto para ser utilizado pelo aplicativo.
+
+![MYSQl](printsAppReadme/beekeeper.png)
+
+![Dados inseridos ao banco de dados](printsAppReadme/beekeeperDados.png)
 
 # DEPENDÊNCIAS
 
